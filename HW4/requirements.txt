@@ -7,3 +7,4 @@ easydict
 matplotlib
 pillow
 ffmpeg-python
+vidgear==0.2.4
